@@ -1,0 +1,5 @@
+pyyaml~=6.0
+tgcrypto==1.2.5
+pyrogram==2.0.104
+python-dotenv~=1.0.0
+apscheduler==3.10.1
